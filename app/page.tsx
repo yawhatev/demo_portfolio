@@ -49,7 +49,7 @@ export default function Portfolio() {
         <div className="flex flex-col items-center text-center space-y-4">
           <div className="space-y-2">
             <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl">
-              Hi, I'm John Doe
+              Hi, I&apos;m John Doe
             </h1>
             <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400">
               Full Stack Developer passionate about creating beautiful and functional web applications
@@ -73,11 +73,11 @@ export default function Portfolio() {
           <div className="grid gap-8 md:grid-cols-2">
             <div className="space-y-4">
               <p className="text-gray-500 dark:text-gray-400">
-                I'm a passionate full stack developer with over 3 years of experience building web applications. I love
+                I&apos;m a passionate full stack developer with over 3 years of experience building web applications. I love
                 turning complex problems into simple, beautiful designs.
               </p>
               <p className="text-gray-500 dark:text-gray-400">
-                When I'm not coding, you can find me exploring new technologies, contributing to open source projects,
+                When I&apos;m not coding, you can find me exploring new technologies, contributing to open source projects,
                 or enjoying a good cup of coffee while reading about the latest in web development.
               </p>
             </div>
@@ -242,7 +242,7 @@ export default function Portfolio() {
         <div className="mx-auto max-w-2xl text-center">
           <h2 className="text-3xl font-bold tracking-tighter mb-8">Get In Touch</h2>
           <p className="text-gray-500 dark:text-gray-400 mb-8">
-            I'm always interested in hearing about new opportunities and interesting projects. Let's connect and see how
+            I&apos;m always interested in hearing about new opportunities and interesting projects. Let&apos;s connect and see how
             we can work together!
           </p>
           <div className="flex justify-center gap-4">
